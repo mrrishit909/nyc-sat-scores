@@ -1,0 +1,10 @@
+step,count
+SAT rows read,478
+duplicate school codes (DBN),0
+rows with an 's' (suppressed: fewer than 5 test takers) instead of numbers,57
+rows with scores after cleaning,421
+school codes that don't look like district + borough letter + number,1
+demographics rows (2011-12),1509
+SAT schools matched to a demographics row,450
+scored schools matched (used in the poverty analysis),412
+SAT test takers in scored schools,46445

@@ -1,0 +1,5 @@
+quartile,schools,takers,poverty_from,poverty_to,mean_total,weighted_mean_total
+lowest poverty,103.0,22352.0,15.8,58.7,1389.7,1480.7
+second,103.0,10240.0,58.9,69.6,1181.4,1214.1
+third,104.0,7926.0,69.8,76.8,1153.6,1190.2
+highest poverty,102.0,5818.0,76.9,100.0,1112.3,1121.6
